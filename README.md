@@ -7,6 +7,7 @@ This project is a Python Flask web application that connects to an Amazon RDS My
 - User registration with form validation.
 - Connection to an Amazon RDS MySQL database.
 - Deployed on a Kubernetes cluster using EKS.
+- document https://docs.google.com/document/d/10PpxYTwQlyMNxpyneXmhzCe0nzjQtSmYbhFsxXYKrKI/edit?usp=sharing
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
